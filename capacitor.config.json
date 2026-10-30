@@ -1,0 +1,9 @@
+{
+  "appId": "com.trendbot.demo",
+  "appName": "Trend Bot",
+  "webDir": "www",
+  "backgroundColor": "#0a0d12",
+  "plugins": {
+    "CapacitorHttp": { "enabled": true }
+  }
+}
